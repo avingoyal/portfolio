@@ -2,6 +2,17 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## 0.0.1 (2024-10-01)
+
+
+### Reverts
+
+* Revert "upgrade nx" ([62550ba](https://github.com/avingoyal/portfolio/commit/62550bab2e60d40b8616465843dad4d3ad612bbd))
+* Revert "rename" ([ffcf477](https://github.com/avingoyal/portfolio/commit/ffcf47783e7dcb924c7685a4c7784a2385b526c2))
+* Revert "fix" ([a93952e](https://github.com/avingoyal/portfolio/commit/a93952e9e6ad61547691bf5e00af35a892a0b81c))
+
+
+
 # [0.13.0](https://github.com/sonarwatch/portfolio/compare/core-0.12.168...core-0.13.0) (2024-09-19)
 
 
