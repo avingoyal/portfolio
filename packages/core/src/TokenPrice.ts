@@ -3,7 +3,7 @@ import { deepClone } from './helpers';
 import { walletTokensPlatformId } from './constants';
 
 export const coingeckoSourceId = 'coingecko';
-export const tokenPriceSourceTtl = 4 * 60 * 60 * 1000; // 4 hours
+export const tokenPriceSourceTtl = undefined // Infinite
 const MAX_N_SOURCES = 10;
 
 export type TokenPriceUnderlying = {
@@ -105,9 +105,9 @@ export function updateTokenPriceSources(
   // Clone sources
   let newSources = deepClone(sources);
 
-  // Remove too old sources
-  const tsThreshold = Date.now() - tokenPriceSourceTtl;
-  newSources = newSources.filter((source) => source.timestamp > tsThreshold);
+  // We are not removing too old sources, but this code can be re-enabld in case we feel that we need to do it later
+  // const tsThreshold = Date.now() - tokenPriceSourceTtl;
+  // newSources = newSources.filter((source) => source.timestamp > tsThreshold);
   if (newSources.length === 0) return undefined;
 
   // Keep only MAX_N_SOURCES
