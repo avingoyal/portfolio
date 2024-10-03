@@ -2,7 +2,7 @@ import {
   NetworkId,
   PortfolioAsset,
   RpcEndpoint,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getAssetBatchDasAsMap } from './das/getAssetBatchDas';
 import { Cache } from '../../Cache';
 import tokenPriceToAssetToken from '../misc/tokenPriceToAssetToken';

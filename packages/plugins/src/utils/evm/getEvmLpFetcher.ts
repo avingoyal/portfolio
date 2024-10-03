@@ -4,7 +4,7 @@ import {
   PortfolioElementType,
   PortfolioLiquidity,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getLiquidity } from './getLiquidity';
 import { Fetcher } from '../../Fetcher';
 import { Cache } from '../../Cache';

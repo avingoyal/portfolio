@@ -1,4 +1,4 @@
-import { Platform, suiNetwork } from '@sonarwatch/portfolio-core';
+import { Platform, suiNetwork } from '@avingoyal01/portfolio-core';
 
 export const platformId = 'kai';
 export const platform: Platform = {

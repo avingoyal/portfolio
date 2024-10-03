@@ -7,7 +7,7 @@ import {
   TokenPriceUnderlying,
   UsdValue,
   formatTokenAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export default function tokenPriceToAssetToken(
   address: string,

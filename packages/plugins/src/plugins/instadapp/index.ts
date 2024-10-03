@@ -1,4 +1,4 @@
-import { NetworkId, Platform } from '@sonarwatch/portfolio-core';
+import { NetworkId, Platform } from '@avingoyal01/portfolio-core';
 import { Fetcher } from '../../Fetcher';
 import { Job } from '../../Job';
 import { liteConfigs, platform } from './constants';

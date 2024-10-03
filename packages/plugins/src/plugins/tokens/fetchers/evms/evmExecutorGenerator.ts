@@ -5,7 +5,7 @@ import {
   PortfolioElementType,
   TokenPrice,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { BigNumber } from 'bignumber.js';
 import { getAddress } from 'viem';
 import { Cache } from '../../../../Cache';

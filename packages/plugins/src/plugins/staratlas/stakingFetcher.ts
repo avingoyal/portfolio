@@ -3,7 +3,7 @@ import {
   PortfolioAssetToken,
   PortfolioElementType,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { atlasDecimals, atlasMint, platformId, stakingPid } from './constants';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

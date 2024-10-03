@@ -1,4 +1,4 @@
-import { NetworkId, Platform, Service } from '@sonarwatch/portfolio-core';
+import { NetworkId, Platform, Service } from '@avingoyal01/portfolio-core';
 import { Job } from '../../Job';
 import { Fetcher } from '../../Fetcher';
 import lendingPoolsJob from './lendingPoolsJob';

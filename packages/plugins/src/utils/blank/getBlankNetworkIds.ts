@@ -6,7 +6,7 @@ import {
   NetworkId,
   NetworkIdType,
   evmNetworks,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { isBlankAddressSui } from './isBlankAddressSui';
 import { isBlankAddressAptos } from './isBlankAddressAptos';
 import { isBlankAddressEvm } from './isBlankAddressEvm';

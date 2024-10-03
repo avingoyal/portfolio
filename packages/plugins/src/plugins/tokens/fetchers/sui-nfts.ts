@@ -5,7 +5,7 @@ import {
   PortfolioAssetType,
   PortfolioElementMultiple,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Fetcher, FetcherExecutor } from '../../../Fetcher';
 import { getClientSui } from '../../../utils/clients';
 import { walletNftsPlatform } from '../constants';

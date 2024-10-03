@@ -2,7 +2,7 @@ import { Connection, PublicKey } from '@solana/web3.js';
 import {
   solanaNativeAddress,
   solanaNativeWrappedAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import sleep from '../misc/sleep';
 
 const solMints = [solanaNativeAddress, solanaNativeWrappedAddress];

@@ -1,4 +1,4 @@
-import { TokenPrice } from '@sonarwatch/portfolio-core';
+import { TokenPrice } from '@avingoyal01/portfolio-core';
 
 export type IlkData = {
   id: string;

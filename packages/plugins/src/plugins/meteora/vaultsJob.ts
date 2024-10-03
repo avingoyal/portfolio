@@ -1,4 +1,4 @@
-import { NetworkId, TokenPriceSource } from '@sonarwatch/portfolio-core';
+import { NetworkId, TokenPriceSource } from '@avingoyal01/portfolio-core';
 import { platformId, vaultsProgramId } from './constants';
 import { getClientSolana } from '../../utils/clients';
 import { getParsedProgramAccounts } from '../../utils/solana';

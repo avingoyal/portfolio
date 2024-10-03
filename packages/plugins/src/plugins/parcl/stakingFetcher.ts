@@ -3,7 +3,7 @@ import {
   NetworkId,
   PortfolioAsset,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';

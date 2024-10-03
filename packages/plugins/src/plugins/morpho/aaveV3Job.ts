@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { getAddress } from 'viem';
 import {
   morphoAaveV3Address,

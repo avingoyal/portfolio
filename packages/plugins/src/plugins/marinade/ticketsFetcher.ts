@@ -7,7 +7,7 @@ import {
   PortfolioElementType,
   getUsdValueSumStrict,
   solanaNativeAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getParsedProgramAccounts } from '../../utils/solana';
 import { marinadeTicketProgramId, platformId, solFactor } from './constants';
 import { ticketStruct } from './structs';

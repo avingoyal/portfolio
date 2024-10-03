@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js';
-import { NetworkId, networks } from '@sonarwatch/portfolio-core';
+import { NetworkId, networks } from '@avingoyal01/portfolio-core';
 import computeAndStoreLpPrice, { PoolData } from './computeAndStoreLpPrice';
 import { Cache } from '../../Cache';
 

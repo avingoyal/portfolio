@@ -1,4 +1,4 @@
-import { NetworkId, NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkId, NetworkIdType } from '@avingoyal01/portfolio-core';
 
 const ignoredAddresses: Map<NetworkIdType, string[]> = new Map([
   [

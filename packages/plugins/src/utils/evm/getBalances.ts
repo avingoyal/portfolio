@@ -1,4 +1,4 @@
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 import { getEvmClient } from '../clients';
 import { balanceOfErc20ABI } from './erc20Abi';
 import { zeroBigInt } from '../misc/constants';

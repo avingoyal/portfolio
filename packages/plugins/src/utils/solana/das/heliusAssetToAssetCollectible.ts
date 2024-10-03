@@ -3,7 +3,7 @@ import {
   NetworkId,
   PortfolioAssetCollectible,
   PortfolioAssetType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { CollectionGroup, HeliusAsset } from './types';
 
 export function heliusAssetToAssetCollectible(

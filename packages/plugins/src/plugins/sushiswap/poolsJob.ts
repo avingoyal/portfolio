@@ -1,4 +1,4 @@
-import { NetworkId, TokenPrice } from '@sonarwatch/portfolio-core';
+import { NetworkId, TokenPrice } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { ethereumTheGraphV2, platformId, theGraphV3 } from './constants';

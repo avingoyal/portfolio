@@ -1,4 +1,4 @@
-import { NetworkId, NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkId, NetworkIdType } from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { getCosmWasmClient } from '@sei-js/core';
 import {

@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js';
-import { NetworkId, parseTypeString } from '@sonarwatch/portfolio-core';
+import { NetworkId, parseTypeString } from '@avingoyal01/portfolio-core';
 import { getClientAptos } from '../../../utils/clients';
 import { Cache } from '../../../Cache';
 import { Job, JobExecutor } from '../../../Job';

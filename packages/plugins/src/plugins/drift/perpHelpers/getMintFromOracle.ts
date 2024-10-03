@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../../Cache';
 import { oracleToMintLocal } from './constants';
 import { oracleToMintKey, platformId } from '../constants';

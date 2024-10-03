@@ -5,7 +5,7 @@ import {
   PortfolioAssetCollectible,
   PortfolioElement,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import {
   platformId as orcaPlatformId,

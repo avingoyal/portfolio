@@ -1,4 +1,4 @@
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 import axios, { AxiosResponse } from 'axios';
 import { LockerInfo, VaultData, YearnConfig } from './types';
 import { balanceOfErc20ABI } from '../../utils/evm/erc20Abi';

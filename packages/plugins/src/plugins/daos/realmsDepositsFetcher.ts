@@ -4,7 +4,7 @@ import {
   PortfolioElement,
   TokenPrice,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

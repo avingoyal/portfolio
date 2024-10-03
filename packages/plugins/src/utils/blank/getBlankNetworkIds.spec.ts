@@ -1,4 +1,4 @@
-import { AddressSystem } from '@sonarwatch/portfolio-core';
+import { AddressSystem } from '@avingoyal01/portfolio-core';
 import { getBlankNetworkIds } from './getBlankNetworkIds';
 
 describe('getBlankNetworkIds', () => {

@@ -4,7 +4,7 @@ import {
   PortfolioElementType,
   PortfolioLiquidity,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { platformId, poolsAndGaugesV2CacheKey } from './constants';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

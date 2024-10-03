@@ -3,7 +3,7 @@ import {
   NetworkId,
   Service,
   ServiceConfig,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { platformId } from './constants';
 
 export const ethV2MainLendProvider: Contract = {

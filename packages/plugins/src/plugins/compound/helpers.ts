@@ -1,4 +1,4 @@
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 
 // We didn't manage to understand why on some networks the borrow decimals were different.
 // TODO improve this part (use borrowIndex ?)

@@ -1,4 +1,4 @@
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 
 export type PoolInfo = {
   id: `0x${string}`;

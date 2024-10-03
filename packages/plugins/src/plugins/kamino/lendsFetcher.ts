@@ -1,4 +1,4 @@
-import { NetworkId, aprToApy } from '@sonarwatch/portfolio-core';
+import { NetworkId, aprToApy } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import {
   elevationGroupsKey,

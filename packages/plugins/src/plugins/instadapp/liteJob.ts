@@ -1,4 +1,4 @@
-import { NetworkId, TokenPriceSource } from '@sonarwatch/portfolio-core';
+import { NetworkId, TokenPriceSource } from '@avingoyal01/portfolio-core';
 import { getAddress } from 'viem';
 import BigNumber from 'bignumber.js';
 import { liteConfigs, platformId } from './constants';

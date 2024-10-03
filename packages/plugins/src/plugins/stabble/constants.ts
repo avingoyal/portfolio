@@ -1,4 +1,4 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import { IdlItem } from '@solanafm/explorer-kit-idls';
 import { StableIdl } from './stableIdl';
 import { WeightedIdl } from './weightedIdl';

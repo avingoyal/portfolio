@@ -1,4 +1,4 @@
-import { NetworkIdType, TokenPrice } from '@sonarwatch/portfolio-core';
+import { NetworkIdType, TokenPrice } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import runInBatch from './runInBatch';
 

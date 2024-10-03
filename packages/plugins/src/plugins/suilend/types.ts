@@ -1,4 +1,4 @@
-import { BorrowLendRate } from '@sonarwatch/portfolio-core';
+import { BorrowLendRate } from '@avingoyal01/portfolio-core';
 import { ParsedData } from '../../utils/sui/types';
 
 export type ObligationCapFields = {

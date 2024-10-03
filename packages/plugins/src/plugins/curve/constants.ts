@@ -2,7 +2,7 @@ import {
   EvmNetworkIdType,
   NetworkId,
   Platform,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export const platformId = 'curve';
 export const platform: Platform = {

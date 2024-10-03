@@ -1,5 +1,5 @@
 import { PublicKey } from '@solana/web3.js';
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import { IdlItem } from '@solanafm/explorer-kit-idls';
 import { idls as ZetaStakingID } from './idls';
 

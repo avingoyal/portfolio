@@ -4,7 +4,7 @@ import {
   PortfolioAsset,
   PortfolioLiquidity,
   Yield,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { TokenPriceMap } from '../../TokenPriceMap';
 import { AssetBuilder } from './AssetBuilder';
 import { PortfolioAssetParams } from './PortfolioAssetParams';

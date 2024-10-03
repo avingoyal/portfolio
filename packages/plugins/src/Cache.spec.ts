@@ -1,4 +1,4 @@
-import { NetworkId, TokenPriceSource } from '@sonarwatch/portfolio-core';
+import { NetworkId, TokenPriceSource } from '@avingoyal01/portfolio-core';
 import { Cache } from './Cache';
 import sleep from './utils/misc/sleep';
 

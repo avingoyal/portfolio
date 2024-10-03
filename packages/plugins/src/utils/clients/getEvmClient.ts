@@ -1,5 +1,5 @@
 import { createPublicClient, http } from 'viem';
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 import { getBasicAuthHeaders } from '../misc/getBasicAuthHeaders';
 import { getRpcEndpoint, viemChainsByNetworkId } from './constants';
 import { EvmClient } from './types';

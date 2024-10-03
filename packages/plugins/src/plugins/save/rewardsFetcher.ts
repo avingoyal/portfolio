@@ -3,7 +3,7 @@ import {
   NetworkId,
   PortfolioAsset,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import axios from 'axios';
 import { Connection, PublicKey } from '@solana/web3.js';
 import { BN } from 'bn.js';

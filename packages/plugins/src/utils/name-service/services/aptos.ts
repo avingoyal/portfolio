@@ -1,4 +1,4 @@
-import { aptosNameChecker } from '@sonarwatch/portfolio-core';
+import { aptosNameChecker } from '@avingoyal01/portfolio-core';
 import { NameService } from '../types';
 import { getClientAptos } from '../../clients';
 

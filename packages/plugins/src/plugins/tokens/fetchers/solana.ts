@@ -7,7 +7,7 @@ import {
   PortfolioLiquidity,
   TokenPrice,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Fetcher, FetcherExecutor } from '../../../Fetcher';
 import { walletNftsPlatform, walletTokensPlatform } from '../constants';

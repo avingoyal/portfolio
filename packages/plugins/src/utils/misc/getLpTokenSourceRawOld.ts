@@ -1,4 +1,4 @@
-import { NetworkIdType, TokenPriceSource } from '@sonarwatch/portfolio-core';
+import { NetworkIdType, TokenPriceSource } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import getLpTokenSourceOld from './getLpTokenSourceOld';
 

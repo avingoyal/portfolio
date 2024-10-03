@@ -1,5 +1,5 @@
 import axios, { AxiosResponse } from 'axios';
-import { NetworkId, NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkId, NetworkIdType } from '@avingoyal01/portfolio-core';
 import { RegistryId } from './types';
 import {
   CrvNetworkId,

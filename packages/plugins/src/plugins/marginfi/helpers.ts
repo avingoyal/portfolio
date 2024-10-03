@@ -8,7 +8,7 @@ import {
   TokenPrice,
   Yield,
   getElementLendingValues,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Bank } from './structs/Bank';
 import { MarginfiAccount } from './structs/MarginfiAccount';
 import { BankInfo } from './types';

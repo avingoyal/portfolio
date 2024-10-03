@@ -3,7 +3,7 @@ import {
   NetworkIdType,
   formatTokenAddress,
   zeroAddressEvm,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getEvmClient } from '../../../utils/clients';
 import { ethGaugeControllerAddress } from '../constants';
 import { abi } from '../abi';

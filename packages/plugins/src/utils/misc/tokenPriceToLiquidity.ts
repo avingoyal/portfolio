@@ -3,7 +3,7 @@ import {
   PortfolioLiquidity,
   TokenPrice,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import tokenPriceToAssetTokens from './tokenPriceToAssetTokens';
 
 export default function tokenPriceToLiquidity(

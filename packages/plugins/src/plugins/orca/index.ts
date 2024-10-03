@@ -1,4 +1,4 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import lpJob from './lpTokensJob';
 import { Fetcher } from '../../Fetcher';
 import { Job } from '../../Job';

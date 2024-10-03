@@ -2,7 +2,7 @@ import {
   NetworkId,
   NetworkIdType,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';
 import { platformId, wMint } from './constants';

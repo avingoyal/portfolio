@@ -2,7 +2,7 @@
 
 import Decimal from 'decimal.js';
 import BigNumber from 'bignumber.js';
-import { suiNetwork } from '@sonarwatch/portfolio-core';
+import { suiNetwork } from '@avingoyal01/portfolio-core';
 import { normalizeSuiObjectId } from '@mysten/sui.js/utils';
 import {
   ClmmPositionStatus,

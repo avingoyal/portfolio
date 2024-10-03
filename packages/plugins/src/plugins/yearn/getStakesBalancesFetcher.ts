@@ -4,7 +4,7 @@ import {
   PortfolioLiquidity,
   TokenPrice,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { getBalancesYearn } from './helpers';

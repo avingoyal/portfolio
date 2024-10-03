@@ -1,4 +1,4 @@
-import { RpcEndpoint } from '@sonarwatch/portfolio-core';
+import { RpcEndpoint } from '@avingoyal01/portfolio-core';
 import axios, { AxiosResponse } from 'axios';
 import { DisplayOptions, GetAssetsByOwnerOutput, HeliusAsset } from './types';
 import { getBasicAuthHeaders } from '../../misc/getBasicAuthHeaders';

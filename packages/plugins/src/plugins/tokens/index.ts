@@ -2,7 +2,7 @@ import {
   NetworkId,
   Platform,
   networksAsArray,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Job } from '../../Job';
 import { Fetcher } from '../../Fetcher';
 import {} from 'graphql';

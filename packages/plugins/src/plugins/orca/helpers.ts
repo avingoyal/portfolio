@@ -3,7 +3,7 @@ import BigNumber from 'bignumber.js';
 import BN from 'bn.js';
 import Decimal from 'decimal.js';
 
-import { PortfolioAssetCollectible } from '@sonarwatch/portfolio-core';
+import { PortfolioAssetCollectible } from '@avingoyal01/portfolio-core';
 import { positionsIdentifier } from './constants';
 
 export function isAnOrcaPosition(nft: PortfolioAssetCollectible): boolean {

@@ -2,7 +2,7 @@ import {
   formatTokenAddress,
   NetworkId,
   walletTokensPlatformId,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { platformId, stakedAssetInfos } from './constants';

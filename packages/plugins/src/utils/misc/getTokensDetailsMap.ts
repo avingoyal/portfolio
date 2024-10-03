@@ -1,4 +1,4 @@
-import { NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkIdType } from '@avingoyal01/portfolio-core';
 import { Token } from '../../plugins/tokens/types';
 import { Cache } from '../../Cache';
 import { tokenListsDetailsPrefix } from '../../plugins/tokens/constants';

@@ -5,7 +5,7 @@ import {
   PortfolioElementLeverage,
   PortfolioElementType,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { PublicKey } from '@solana/web3.js';
 import { Cache } from '../../../Cache';

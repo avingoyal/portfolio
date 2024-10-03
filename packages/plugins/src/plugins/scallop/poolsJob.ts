@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { SUI_TYPE_ARG, normalizeStructTag } from '@mysten/sui.js/utils';
 import { CoinMetadata } from '@mysten/sui.js/client';
 import { Cache } from '../../Cache';

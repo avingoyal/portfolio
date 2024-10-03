@@ -3,7 +3,7 @@ import {
   formatReservesAndIncentives,
   UserIncentiveDict,
 } from '@aave/math-utils';
-import { NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkIdType } from '@avingoyal01/portfolio-core';
 
 type FormattedReserves = ReturnType<typeof formatReservesAndIncentives>;
 

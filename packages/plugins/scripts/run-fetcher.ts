@@ -1,5 +1,5 @@
 import util from 'node:util';
-import { isAddress, networks } from '@sonarwatch/portfolio-core';
+import { isAddress, networks } from '@avingoyal01/portfolio-core';
 import { fetchers, getCache } from '../src';
 import durationForHumans from '../src/utils/misc/durationForHumans';
 import { runFetcher } from '../src/Fetcher';

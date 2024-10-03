@@ -2,7 +2,7 @@ import {
   NetworkIdType,
   UniTokenList,
   networks,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import axios, { AxiosResponse } from 'axios';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';

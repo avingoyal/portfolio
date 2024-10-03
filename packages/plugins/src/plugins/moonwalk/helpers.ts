@@ -1,7 +1,7 @@
 import {
   solanaNativeAddress,
   solanaNativeDecimals,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import {
   ParsedAccount,
   usdcSolanaDecimals,

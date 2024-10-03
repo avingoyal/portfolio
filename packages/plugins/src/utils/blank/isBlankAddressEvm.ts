@@ -1,4 +1,4 @@
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 import { getEvmClient } from '../clients';
 
 export async function isBlankAddressEvm(

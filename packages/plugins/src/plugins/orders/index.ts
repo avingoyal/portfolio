@@ -1,8 +1,8 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import { Fetcher } from '../../Fetcher';
 import { Job } from '../../Job';
 import { openbookPlatform, serumPlatform } from './clobs-solana/constants';
-// import { NetworkId } from '@sonarwatch/portfolio-core';
+// import { NetworkId } from '@avingoyal01/portfolio-core';
 // import openbookFetcher from './clobs-solana/openbookFetcher';
 // import { clobVersions } from './clobs-solana/constants';
 // import getMarketJobExecutor from './clobs-solana/MarketJobExecutorGenerator';

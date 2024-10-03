@@ -1,5 +1,5 @@
 import { PublicKey } from '@solana/web3.js';
-import { Platform, solanaNetwork } from '@sonarwatch/portfolio-core';
+import { Platform, solanaNetwork } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 
 export const platformId = 'marinade';

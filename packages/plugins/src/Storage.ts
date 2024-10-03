@@ -1,4 +1,4 @@
-import { NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkIdType } from '@avingoyal01/portfolio-core';
 
 export type MaybePromise<T> = T | Promise<T>;
 export type StorageValue =

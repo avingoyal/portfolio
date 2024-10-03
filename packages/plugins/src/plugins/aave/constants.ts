@@ -3,7 +3,7 @@ import {
   NetworkIdType,
   Platform,
   networks,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { LendingConfig } from './types';
 
 export const platformId = 'aave';

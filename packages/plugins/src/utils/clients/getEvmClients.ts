@@ -1,4 +1,4 @@
-import { EvmNetworkIdType, NetworkId } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType, NetworkId } from '@avingoyal01/portfolio-core';
 import getEvmClient from './getEvmClient';
 import { EvmClient } from './types';
 

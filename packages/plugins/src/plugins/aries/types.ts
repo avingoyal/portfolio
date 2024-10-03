@@ -1,4 +1,4 @@
-import { BorrowLendRate } from '@sonarwatch/portfolio-core';
+import { BorrowLendRate } from '@avingoyal01/portfolio-core';
 
 export type ProfilesSummary = {
   profile_signers: {

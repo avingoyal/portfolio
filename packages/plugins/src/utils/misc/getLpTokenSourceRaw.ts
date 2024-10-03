@@ -2,7 +2,7 @@ import {
   NetworkIdType,
   TokenPrice,
   TokenPriceSource,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { LpDetails, getLpTokenSource } from './getLpTokenSource';
 import { PoolUnderlying } from './getLpUnderlyingTokenSource';

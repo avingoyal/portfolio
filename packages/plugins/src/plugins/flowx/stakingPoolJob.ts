@@ -1,4 +1,4 @@
-import { NetworkId, parseTypeString } from '@sonarwatch/portfolio-core';
+import { NetworkId, parseTypeString } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { platformId, poolsKey, poolsOwner, poolsPrefix } from './constants';

@@ -3,7 +3,7 @@ import {
   solanaNativeAddress,
   solanaNativeDecimals,
   solanaNativeWrappedAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { SolanaClient } from '../clients/types';
 import { getParsedAccountInfo } from './getParsedAccountInfo';
 import { mintAccountStruct } from './structs';

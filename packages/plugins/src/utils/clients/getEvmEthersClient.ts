@@ -1,5 +1,5 @@
 import { StaticJsonRpcProvider } from '@ethersproject/providers';
-import { EvmNetworkIdType, networks } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType, networks } from '@avingoyal01/portfolio-core';
 import { getRpcEndpoint } from './constants';
 
 export default function getEvmEthersClient(

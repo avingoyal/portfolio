@@ -4,7 +4,7 @@ import {
   PortfolioElement,
   getUsdValueSum,
   solanaNetwork,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { EpochInfo } from '@solana/web3.js';
 import { Cache } from '../../../Cache';

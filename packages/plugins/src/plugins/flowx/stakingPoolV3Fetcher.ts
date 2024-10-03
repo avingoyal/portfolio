@@ -4,7 +4,7 @@ import {
   NetworkId,
   PortfolioElementType,
   PortfolioLiquidity,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

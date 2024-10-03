@@ -9,7 +9,7 @@ import {
   NetworkId,
   parseTypeString,
   TokenPriceSource,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getLpTokenSourceRaw } from '../../utils/misc/getLpTokenSourceRaw';
 
 const executor: JobExecutor = async (cache: Cache) => {

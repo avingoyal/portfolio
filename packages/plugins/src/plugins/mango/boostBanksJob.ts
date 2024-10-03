@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { Job, JobExecutor } from '../../Job';
 import { Cache } from '../../Cache';
 import { platformId, boostProgramId, boostBanksKey } from './constants';

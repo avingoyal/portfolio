@@ -1,4 +1,4 @@
-import { NetworkIdType, PortfolioAsset } from '@sonarwatch/portfolio-core';
+import { NetworkIdType, PortfolioAsset } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { PortfolioAssetParams } from './PortfolioAssetParams';
 import tokenPriceToAssetToken from '../misc/tokenPriceToAssetToken';

@@ -5,7 +5,7 @@ import {
   NetworkId,
   aprToApy,
   borrowLendRatesPrefix,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { reserveApiUrl, platformId, reservesKey } from './constants';

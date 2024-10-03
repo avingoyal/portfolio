@@ -1,4 +1,4 @@
-import { NetworkId, PortfolioElementType } from '@sonarwatch/portfolio-core';
+import { NetworkId, PortfolioElementType } from '@avingoyal01/portfolio-core';
 import { BCS, getSuiMoveConfig } from '@mysten/bcs';
 import BigNumber from 'bignumber.js';
 import axios, { AxiosResponse } from 'axios';

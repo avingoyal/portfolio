@@ -1,4 +1,4 @@
-import { NetworkId, solanaNativeAddress } from '@sonarwatch/portfolio-core';
+import { NetworkId, solanaNativeAddress } from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { Cache } from '../../Cache';
 import { platformId } from './constants';

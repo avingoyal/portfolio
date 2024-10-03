@@ -4,7 +4,7 @@ import {
   getDomainKeySync,
   getFavoriteDomain,
 } from '@bonfida/spl-name-service';
-import { bonfidaNameChecker } from '@sonarwatch/portfolio-core';
+import { bonfidaNameChecker } from '@avingoyal01/portfolio-core';
 import { getClientSolana } from '../../clients';
 import { NameService } from '../types';
 

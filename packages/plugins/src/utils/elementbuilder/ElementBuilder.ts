@@ -3,7 +3,7 @@ import {
   PortfolioElement,
   PortfolioElementLabel,
   PortfolioElementTypeType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { ElementParams } from './ElementParams';
 import { TokenPriceMap } from '../../TokenPriceMap';
 

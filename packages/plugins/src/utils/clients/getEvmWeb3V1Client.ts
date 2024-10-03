@@ -1,4 +1,4 @@
-import { EvmNetworkIdType } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType } from '@avingoyal01/portfolio-core';
 import Web3 from 'web3-v1';
 import { getRpcEndpoint } from './constants';
 import { getBasicAuthHeaders } from '../misc/getBasicAuthHeaders';

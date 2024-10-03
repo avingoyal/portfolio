@@ -4,7 +4,7 @@ import {
   TokenPriceSource,
   UniTokenList,
   UniTokenListVersion,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { nIdsToFetch, walletTokensPlatform } from './constants';
 import { CoingeckoSimpleRes, TokenData } from './types';
 import shuffleArray from '../../utils/misc/shuffleArray';

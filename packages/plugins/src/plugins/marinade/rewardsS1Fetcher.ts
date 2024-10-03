@@ -3,7 +3,7 @@ import {
   PortfolioAsset,
   PortfolioElementType,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';
 import { mndeDecimals, mndeMint, platformId, season1Unlock } from './constants';

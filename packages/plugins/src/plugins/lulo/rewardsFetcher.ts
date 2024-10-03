@@ -1,4 +1,4 @@
-import { NetworkId, PortfolioElement } from '@sonarwatch/portfolio-core';
+import { NetworkId, PortfolioElement } from '@avingoyal01/portfolio-core';
 import { platform, platformId } from './constants';
 import driftAirdropFetcher from '../drift/airdropFetcher';
 import solendRewardsFetcher from '../save/rewardsFetcher';

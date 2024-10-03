@@ -3,7 +3,7 @@ import {
   NetworkId,
   formatTokenAddress,
   parseTypeString,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import {
   LiquidswapLiquidityPoolData as LiquidityPoolData,
   LpInfo,

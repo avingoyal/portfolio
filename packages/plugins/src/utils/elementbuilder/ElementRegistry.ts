@@ -4,7 +4,7 @@ import {
   PortfolioElementLiquidity,
   PortfolioElementMultiple,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { ElementBuilder } from './ElementBuilder';
 import { ElementParams } from './ElementParams';
 import { Cache } from '../../Cache';

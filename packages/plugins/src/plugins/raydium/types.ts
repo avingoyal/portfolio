@@ -1,6 +1,6 @@
 import { GetProgramAccountsFilter, PublicKey } from '@solana/web3.js';
 import { BeetStruct } from '@metaplex-foundation/beet';
-import { TokenPrice, Yield } from '@sonarwatch/portfolio-core';
+import { TokenPrice, Yield } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import BN from 'bn.js';
 import Decimal from 'decimal.js';

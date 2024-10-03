@@ -1,4 +1,4 @@
-import { NetworkId, PortfolioElement } from '@sonarwatch/portfolio-core';
+import { NetworkId, PortfolioElement } from '@avingoyal01/portfolio-core';
 import { AccountInfo, PublicKey } from '@solana/web3.js';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

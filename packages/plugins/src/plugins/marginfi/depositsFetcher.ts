@@ -1,4 +1,4 @@
-import { NetworkId, PortfolioElement } from '@sonarwatch/portfolio-core';
+import { NetworkId, PortfolioElement } from '@avingoyal01/portfolio-core';
 import { MarginfiProgram, platformId, banksKey } from './constants';
 import { marginfiAccountStruct } from './structs/MarginfiAccount';
 import { getElementFromAccount } from './helpers';

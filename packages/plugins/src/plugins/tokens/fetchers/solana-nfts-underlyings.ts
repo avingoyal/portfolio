@@ -2,7 +2,7 @@ import {
   NetworkId,
   PortfolioAssetCollectible,
   PortfolioElement,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 import { Fetcher, FetcherExecutor } from '../../../Fetcher';
 import { walletTokensPlatform } from '../constants';

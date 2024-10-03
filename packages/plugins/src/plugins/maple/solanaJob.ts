@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { USDC_MINT } from '@bonfida/spl-name-service';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';

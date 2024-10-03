@@ -2,7 +2,7 @@ import {
   LlamaProtocol,
   LlamaProtocolFull,
   Platform,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import axios from 'axios';
 import { Cache } from '../../Cache';
 import { Job } from '../../Job';

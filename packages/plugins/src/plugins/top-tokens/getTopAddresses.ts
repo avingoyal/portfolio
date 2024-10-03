@@ -4,7 +4,7 @@ import {
   formatAddress,
   formatTokenAddress,
   networks,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import forcedAddresses from './forcedAddresses';
 import { coingeckoCoinsMarketsUrl } from '../../utils/coingecko/constants';
 import {

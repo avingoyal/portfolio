@@ -2,7 +2,7 @@ import {
   PortfolioAssetToken,
   PortfolioElementType,
   PortfolioLiquidity,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getEvmClient } from '../../utils/clients';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';
 import { Cache } from '../../Cache';

@@ -12,7 +12,7 @@ import {
   tokenPriceFromSources,
   TokenPriceSource,
   tokenPriceSourceTtl,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import overlayDriver from './overlayDriver';
 import memoryDriver, {
   DRIVER_SW_MEMORY_NAME,
@@ -255,7 +255,6 @@ export class Cache {
     if (this.driver.name === 'redis' && ttl) {
       ttl = Math.round(ttl / 1000);
     }
-    console.log('ttl', ttl);
     return this.storage.setItem(fullKey, value, {
       ttl,
     });

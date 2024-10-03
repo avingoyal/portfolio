@@ -1,6 +1,6 @@
 import { PublicKey } from '@solana/web3.js';
 
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 
 export const platformId = 'jupiter-exchange';
 export const platform: Platform = {

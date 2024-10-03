@@ -3,7 +3,7 @@ import {
   NetworkId,
   aprToApy,
   borrowLendRatesPrefix,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { BankEnhanced } from './types';
 import { Job, JobExecutor } from '../../Job';
 import { Cache } from '../../Cache';

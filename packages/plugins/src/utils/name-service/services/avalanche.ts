@@ -2,7 +2,7 @@ import {
   NetworkId,
   formatEvmAddress,
   avalancheNameChecker,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getEvmClient } from '../../clients';
 import { NameService } from '../types';
 

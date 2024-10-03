@@ -1,7 +1,7 @@
 import {
   EvmNetworkIdType,
   PortfolioAssetToken,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { getBalances } from './getBalances';

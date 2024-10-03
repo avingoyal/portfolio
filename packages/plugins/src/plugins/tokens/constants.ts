@@ -2,7 +2,7 @@ import {
   Platform,
   walletNftsPlatformId,
   walletTokensPlatformId,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export const walletTokensPlatform: Platform = {
   id: walletTokensPlatformId,

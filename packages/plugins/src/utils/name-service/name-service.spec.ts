@@ -1,4 +1,4 @@
-import { solanaNativeAddress } from '@sonarwatch/portfolio-core';
+import { solanaNativeAddress } from '@avingoyal01/portfolio-core';
 import { nameService as ensNameService } from './services/ens';
 import { nameService as aptosNameService } from './services/aptos';
 import { nameService as suiNameService } from './services/sui';

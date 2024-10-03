@@ -6,7 +6,7 @@ import {
 } from '@nx/devkit';
 import { existsSync } from 'node:fs';
 import * as path from 'path';
-import { assertNetworkId } from '@sonarwatch/portfolio-core';
+import { assertNetworkId } from '@avingoyal01/portfolio-core';
 import { FetcherGeneratorSchema } from './schema.d';
 import {
   idToPascalCase,

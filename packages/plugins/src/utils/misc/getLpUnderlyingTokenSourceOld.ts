@@ -4,7 +4,7 @@ import {
   TokenPriceSource,
   coingeckoSourceId,
   formatTokenAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import getSourceWeight from './getSourceWeight';
 import { walletTokensPlatform } from '../../plugins/tokens/constants';

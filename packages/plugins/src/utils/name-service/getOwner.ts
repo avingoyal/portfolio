@@ -1,4 +1,4 @@
-import { NSOwner } from '@sonarwatch/portfolio-core';
+import { NSOwner } from '@avingoyal01/portfolio-core';
 import { nameServices } from './nameServices';
 
 export async function getOwner(name: string): Promise<NSOwner | null> {

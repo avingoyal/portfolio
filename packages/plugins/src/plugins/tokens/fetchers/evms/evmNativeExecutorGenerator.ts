@@ -3,7 +3,7 @@ import {
   PortfolioElementMultiple,
   PortfolioElementType,
   networks,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { getAddress } from 'viem';
 import BigNumber from 'bignumber.js';
 import { FetcherExecutor } from '../../../../Fetcher';

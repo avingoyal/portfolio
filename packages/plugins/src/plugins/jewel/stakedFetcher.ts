@@ -6,7 +6,7 @@ import {
   PortfolioElement,
   PortfolioElementType,
   suiNativeAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { jwlSui, platformId, stakedAssetInfos } from './constants';

@@ -5,7 +5,7 @@ import {
   PortfolioElementType,
   getUsdValueSum,
   solanaNativeAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { programId, platformId, gamesCacheId } from './constants';

@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import axios, { AxiosResponse } from 'axios';
 import {
   marketsPrefix as prefix,

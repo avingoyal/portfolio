@@ -1,4 +1,4 @@
-import { AddressSystemType } from '@sonarwatch/portfolio-core';
+import { AddressSystemType } from '@avingoyal01/portfolio-core';
 import { nameServices } from './nameServices';
 
 export async function getNames(

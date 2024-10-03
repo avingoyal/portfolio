@@ -1,4 +1,4 @@
-import { EvmNetworkIdType, NetworkId } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType, NetworkId } from '@avingoyal01/portfolio-core';
 import { Fetcher } from '../../../../Fetcher';
 import getEvmFetcherExecutor from './evmExecutorGenerator';
 import getEvmFetcherNativeExecutor from './evmNativeExecutorGenerator';

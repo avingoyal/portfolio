@@ -1,7 +1,7 @@
 import {
   PortfolioAssetCollectible,
   PortfolioElement,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 
 export type TokenData = {

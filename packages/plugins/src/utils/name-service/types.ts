@@ -1,4 +1,4 @@
-import { NameChecker } from '@sonarwatch/portfolio-core';
+import { NameChecker } from '@avingoyal01/portfolio-core';
 
 export type NameService = {
   id: string;

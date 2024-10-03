@@ -1,4 +1,4 @@
-import { NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkIdType } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import checkComputeAndStoreTokensPrices from './checkComputeAndStoreTokensPrices';

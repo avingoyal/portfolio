@@ -1,7 +1,7 @@
 import { TransactionBlock } from '@mysten/sui.js/transactions';
 import { BCS, getSuiMoveConfig } from '@mysten/bcs';
 import BigNumber from 'bignumber.js';
-import { suiClockAddress } from '@sonarwatch/portfolio-core';
+import { suiClockAddress } from '@avingoyal01/portfolio-core';
 import { SuiClient } from '../../utils/clients/types';
 import {
   incentiveFunction,

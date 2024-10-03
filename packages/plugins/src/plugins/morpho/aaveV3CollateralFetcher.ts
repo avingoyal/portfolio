@@ -5,7 +5,7 @@ import {
   PortfolioElementType,
   Yield,
   getElementLendingValues,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Underlying, platformId } from './constants';
 import { Cache } from '../../Cache';

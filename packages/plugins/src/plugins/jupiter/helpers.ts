@@ -3,7 +3,7 @@ import axios, { AxiosResponse } from 'axios';
 import {
   PortfolioAssetToken,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { PriceResponse } from './types';
 import { lockerPubkey, voteProgramId } from './launchpad/constants';
 

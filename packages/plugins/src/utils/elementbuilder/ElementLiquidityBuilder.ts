@@ -4,7 +4,7 @@ import {
   PortfolioElement,
   PortfolioElementLiquidity,
   PortfolioLiquidity,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { ElementBuilder } from './ElementBuilder';
 import { ElementParams } from './ElementParams';
 import { TokenPriceMap } from '../../TokenPriceMap';

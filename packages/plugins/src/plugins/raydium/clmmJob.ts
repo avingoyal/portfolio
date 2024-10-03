@@ -1,4 +1,4 @@
-import { NetworkId, TokenPriceSource } from '@sonarwatch/portfolio-core';
+import { NetworkId, TokenPriceSource } from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import Decimal from 'decimal.js';
 import { platformId, raydiumProgram } from './constants';

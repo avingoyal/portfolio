@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { RpcEndpoint, bitcoinNetwork } from '@sonarwatch/portfolio-core';
+import { RpcEndpoint, bitcoinNetwork } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 
 const bnFactor = new BigNumber(10 ** bitcoinNetwork.native.decimals);

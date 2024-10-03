@@ -4,7 +4,7 @@ import {
   getUsdValueSum,
   seiNativeAddress,
   seiNetwork,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import Long from 'long';
 import BigNumber from 'bignumber.js';
 import { platformId } from './constants';

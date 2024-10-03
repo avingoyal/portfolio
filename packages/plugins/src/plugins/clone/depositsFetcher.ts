@@ -5,7 +5,7 @@ import {
   PortfolioElementType,
   Yield,
   getElementLendingValues,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';
 import { platformId, poolsKey } from './constants';

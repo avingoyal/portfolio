@@ -1,4 +1,4 @@
-import { Yield } from '@sonarwatch/portfolio-core';
+import { Yield } from '@avingoyal01/portfolio-core';
 import { Bank } from './structs/Bank';
 
 export type BankInfo = Bank & {

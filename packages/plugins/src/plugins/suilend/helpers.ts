@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js';
-import { BorrowLendRate } from '@sonarwatch/portfolio-core';
+import { BorrowLendRate } from '@avingoyal01/portfolio-core';
 import { LendingMarket, PoolReward, Reserve } from './types';
 
 export function getPoolsRewardsAsMap(

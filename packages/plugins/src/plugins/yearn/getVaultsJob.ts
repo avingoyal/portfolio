@@ -1,4 +1,4 @@
-import { EvmNetworkIdType, networks } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType, networks } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { vaultsKey } from './constants';

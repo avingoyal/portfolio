@@ -2,7 +2,7 @@ import {
   NetworkId,
   PortfolioAssetToken,
   PortfolioAssetType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { HeliusAsset } from './types';
 
 export function heliusAssetToAssetToken(

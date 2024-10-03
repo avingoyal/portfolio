@@ -1,4 +1,4 @@
-import { NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkIdType } from '@avingoyal01/portfolio-core';
 import { Item, Storage, StorageValue, TransactionOptions } from './Storage';
 
 function getPath(key: string, prefix?: string, networkId?: NetworkIdType) {

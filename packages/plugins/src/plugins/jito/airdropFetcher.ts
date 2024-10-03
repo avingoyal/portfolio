@@ -3,7 +3,7 @@ import {
   PortfolioAsset,
   PortfolioElementType,
   getUsdValueSum,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import axios from 'axios';
 import { Cache } from '../../Cache';

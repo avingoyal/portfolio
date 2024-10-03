@@ -5,7 +5,7 @@ import {
   Platform,
   Service,
   ServiceConfig,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { usdcSolanaMint } from '../../utils/solana';
 
 export const platformId = '01';

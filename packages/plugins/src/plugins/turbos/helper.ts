@@ -1,4 +1,4 @@
-import { suiNativeAddress } from '@sonarwatch/portfolio-core';
+import { suiNativeAddress } from '@avingoyal01/portfolio-core';
 import { Pool, PoolFields, Types } from './types';
 import { ObjectResponse } from '../../utils/sui/types';
 

@@ -1,4 +1,4 @@
-import { NetworkId, suiNativeAddress } from '@sonarwatch/portfolio-core';
+import { NetworkId, suiNativeAddress } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { platformId } from './constants';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

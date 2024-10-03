@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { cpmmProgramId, platformId } from './constants';
 import {

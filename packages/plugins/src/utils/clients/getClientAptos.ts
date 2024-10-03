@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { Aptos, AptosConfig, Network } from '@aptos-labs/ts-sdk';
 import { getRpcEndpoint } from './constants';
 import { getBasicAuthHeaders } from '../misc/getBasicAuthHeaders';

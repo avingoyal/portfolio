@@ -3,7 +3,7 @@ import {
   NetworkId,
   aprToApy,
   borrowLendRatesPrefix,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { MarginfiProgram, platformId, banksKey } from './constants';
 import { bankStruct } from './structs/Bank';
 import { banksFilters } from './filters';

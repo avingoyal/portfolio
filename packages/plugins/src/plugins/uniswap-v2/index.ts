@@ -1,6 +1,6 @@
 import { Fetcher } from '../../Fetcher';
 import { Job } from '../../Job';
-// import { NetworkId } from '@sonarwatch/portfolio-core';
+// import { NetworkId } from '@avingoyal01/portfolio-core';
 // import { theGraphUrl } from './constants';
 // import getPoolsJob from './getPoolsJob';
 // import { platformId } from '../uniswap/constants';

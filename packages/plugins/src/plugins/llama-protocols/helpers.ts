@@ -3,7 +3,7 @@ import {
   LlamaProtocolFull,
   NetworkIdType,
   getNetworkByLlamaId,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export function shrinkLlamaProtocol(
   protocol: LlamaProtocolFull

@@ -1,4 +1,4 @@
-import { NetworkId, PortfolioAsset } from '@sonarwatch/portfolio-core';
+import { NetworkId, PortfolioAsset } from '@avingoyal01/portfolio-core';
 import request, { gql } from 'graphql-request';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

@@ -2,7 +2,7 @@ import {
   NetworkIdType,
   TokenPriceSource,
   formatTokenAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import Decimal from 'decimal.js';
 import { Cache } from '../../Cache';

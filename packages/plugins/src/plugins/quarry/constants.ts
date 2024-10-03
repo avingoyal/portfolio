@@ -1,4 +1,4 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { IdlItem } from '@solanafm/explorer-kit-idls';
 import { mineIdl } from './mineIdl';

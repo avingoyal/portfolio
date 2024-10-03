@@ -2,7 +2,7 @@ import {
   formatTokenAddress,
   NetworkId,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import {
   platformId,

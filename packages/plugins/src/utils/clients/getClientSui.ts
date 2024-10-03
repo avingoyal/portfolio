@@ -2,7 +2,7 @@ import {
   SuiClient as MystenSuiClient,
   SuiHTTPTransport,
 } from '@mysten/sui.js/client';
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { getBasicAuthHeaders } from '../misc/getBasicAuthHeaders';
 import { getRpcEndpoint } from './constants';
 import { SuiClient } from './types';

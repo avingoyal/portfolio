@@ -3,7 +3,7 @@ import {
   PortfolioAssetAttributes,
   PortfolioAssetToken,
   TokenPrice,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import tokenPriceToAssetToken from './tokenPriceToAssetToken';
 
 export default function tokenPriceToAssetTokens(

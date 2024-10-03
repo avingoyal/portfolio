@@ -8,7 +8,7 @@ import {
   formatMoveTokenAddress,
   getElementLendingValues,
   suiNetwork,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { normalizeStructTag, parseStructTag } from '@mysten/sui.js/utils';
 import BigNumber from 'bignumber.js';
 import { SuiObjectDataFilter } from '@mysten/sui.js/client';

@@ -1,4 +1,4 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import { Job } from '../../Job';
 import { Fetcher } from '../../Fetcher';
 import suiFetcher from './suiFetcher';

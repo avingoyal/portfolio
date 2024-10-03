@@ -1,4 +1,4 @@
-import { Network } from '@sonarwatch/portfolio-core';
+import { Network } from '@avingoyal01/portfolio-core';
 
 export type Contract = {
   address: string;

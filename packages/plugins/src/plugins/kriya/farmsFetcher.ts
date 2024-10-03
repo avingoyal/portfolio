@@ -1,4 +1,4 @@
-import { apyToApr, NetworkId } from '@sonarwatch/portfolio-core';
+import { apyToApr, NetworkId } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { Fetcher, FetcherExecutor } from '../../Fetcher';

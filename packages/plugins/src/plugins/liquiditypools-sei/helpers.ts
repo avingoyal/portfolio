@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { PoolInfoV1, PoolInfoV2 } from './types';
 import { getClientCosmWasm } from '../../utils/clients';

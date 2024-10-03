@@ -1,4 +1,4 @@
-import { Platform, suiNativeAddress } from '@sonarwatch/portfolio-core';
+import { Platform, suiNativeAddress } from '@avingoyal01/portfolio-core';
 
 export const platformId = 'navi';
 export const platform: Platform = {

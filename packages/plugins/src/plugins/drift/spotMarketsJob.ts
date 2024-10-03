@@ -3,7 +3,7 @@ import {
   NetworkId,
   aprToApy,
   borrowLendRatesPrefix,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import {
   driftProgram,

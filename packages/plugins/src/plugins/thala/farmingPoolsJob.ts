@@ -1,4 +1,4 @@
-import { NetworkId } from '@sonarwatch/portfolio-core';
+import { NetworkId } from '@avingoyal01/portfolio-core';
 import { farmingPackageId, farmingPoolsKey, platformId } from './constants';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';

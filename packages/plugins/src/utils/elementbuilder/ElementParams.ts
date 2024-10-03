@@ -1,7 +1,7 @@
 import {
   PortfolioElementLabel,
   PortfolioElementTypeType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export type ElementParams = {
   type: PortfolioElementTypeType;

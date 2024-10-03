@@ -1,5 +1,5 @@
 import util from 'node:util';
-import { assertNetworkId } from '@sonarwatch/portfolio-core';
+import { assertNetworkId } from '@avingoyal01/portfolio-core';
 import { fetchers, getCache } from '../src';
 import { runFetchersByNetworkId } from '../src/Fetcher';
 import sleep from '../src/utils/misc/sleep';

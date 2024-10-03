@@ -1,4 +1,4 @@
-import { NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkIdType } from '@avingoyal01/portfolio-core';
 import axios from 'axios';
 import isHttpUrl from './isHttpUrl';
 import isIpfsUrl from './isIpfsUrl';

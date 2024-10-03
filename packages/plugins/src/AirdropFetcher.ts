@@ -26,7 +26,7 @@ import {
   networks,
   compareName,
   formatTokenAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from './Cache';
 import promiseTimeout from './utils/misc/promiseTimeout';
 import { Fetcher } from './Fetcher';

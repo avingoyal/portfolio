@@ -1,4 +1,4 @@
-import { RpcEndpoint } from '@sonarwatch/portfolio-core';
+import { RpcEndpoint } from '@avingoyal01/portfolio-core';
 import { URL } from 'node:url';
 
 export default function urlToRpcEndpoint(url: string): RpcEndpoint {

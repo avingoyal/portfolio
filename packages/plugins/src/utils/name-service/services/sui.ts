@@ -1,4 +1,4 @@
-import { suiNameChecker } from '@sonarwatch/portfolio-core';
+import { suiNameChecker } from '@avingoyal01/portfolio-core';
 import { NameService } from '../types';
 import { getClientSui } from '../../clients';
 

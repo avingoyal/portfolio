@@ -1,4 +1,4 @@
-import { allDomainsNameChecker } from '@sonarwatch/portfolio-core';
+import { allDomainsNameChecker } from '@avingoyal01/portfolio-core';
 import { TldParser } from '@onsol/tldparser';
 import { getClientSolana } from '../../clients';
 import { NameService } from '../types';

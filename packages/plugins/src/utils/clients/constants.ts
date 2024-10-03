@@ -2,7 +2,7 @@ import {
   EvmNetworkIdType,
   NetworkIdType,
   RpcEndpoint,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Chain, avalanche, mainnet, polygon, bsc } from 'viem/chains';
 import urlToRpcEndpoint from './urlToRpcEndpoint';
 

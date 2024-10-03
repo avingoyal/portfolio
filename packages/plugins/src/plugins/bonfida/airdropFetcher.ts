@@ -2,7 +2,7 @@ import {
   NetworkId,
   PortfolioElementMultiple,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import axios, { AxiosResponse } from 'axios';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';

@@ -1,4 +1,4 @@
-import { TokenPrice, formatTokenAddress } from '@sonarwatch/portfolio-core';
+import { TokenPrice, formatTokenAddress } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import {

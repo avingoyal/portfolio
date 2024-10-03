@@ -1,4 +1,4 @@
-import { PortfolioElementLabel } from '@sonarwatch/portfolio-core';
+import { PortfolioElementLabel } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { MoveResource } from '../../utils/aptos';
 

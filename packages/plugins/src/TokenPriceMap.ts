@@ -2,7 +2,7 @@ import {
   formatTokenAddress,
   NetworkIdType,
   TokenPrice,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export class TokenPriceMap extends Map<string, TokenPrice> {
   readonly networkId: NetworkIdType;

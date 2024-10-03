@@ -1,5 +1,5 @@
 import util from 'node:util';
-import { getAddressSystem } from '@sonarwatch/portfolio-core';
+import { getAddressSystem } from '@avingoyal01/portfolio-core';
 import { airdropFetchersByAddressSystem, getCache } from '../src';
 import { runAirdropFetchers } from '../src/AirdropFetcher';
 import sleep from '../src/utils/misc/sleep';

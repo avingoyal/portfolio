@@ -11,7 +11,7 @@ import {
   aprToApy,
   borrowLendRatesPrefix,
   formatTokenAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { lendingConfigs, platformId } from './constants';

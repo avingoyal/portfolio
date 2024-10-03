@@ -1,4 +1,4 @@
-import { EvmNetworkIdType, ProxyInfo } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType, ProxyInfo } from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { fetchLendingForAddress } from './helpers';
 import { FetcherExecutor } from '../../Fetcher';

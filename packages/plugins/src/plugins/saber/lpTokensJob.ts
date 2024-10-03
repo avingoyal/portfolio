@@ -4,7 +4,7 @@ import {
   NetworkId,
   TokenPrice,
   TokenPriceUnderlying,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { Cache } from '../../Cache';
 import { Job, JobExecutor } from '../../Job';
 import { getClientSolana } from '../../utils/clients';

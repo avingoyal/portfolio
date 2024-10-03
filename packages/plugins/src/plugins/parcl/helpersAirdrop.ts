@@ -1,6 +1,6 @@
 import axios, { AxiosResponse } from 'axios';
 import BigNumber from 'bignumber.js';
-import { AirdropRaw, IsClaimed, NetworkId } from '@sonarwatch/portfolio-core';
+import { AirdropRaw, IsClaimed, NetworkId } from '@avingoyal01/portfolio-core';
 import {
   airdropApi,
   airdropStatics,

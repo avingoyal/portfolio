@@ -10,7 +10,7 @@ import {
   PortfolioAssetCollectible,
   TokenPrice,
   Yield,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { AMM_PROGRAM_ID_V3, positionsIdentifier } from './constants';
 import { ClmmPoolInfo, ClmmPoolRewardInfo, Tick } from './types';

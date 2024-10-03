@@ -1,4 +1,4 @@
-import { NetworkId, NetworkIdType } from '@sonarwatch/portfolio-core';
+import { NetworkId, NetworkIdType } from '@avingoyal01/portfolio-core';
 import axios, { AxiosResponse } from 'axios';
 import { PublicKey } from '@solana/web3.js';
 import { apiUrl } from './constants';

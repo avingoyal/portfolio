@@ -1,4 +1,4 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import vaultsJob from './vaultsJob';
 import poolsJob from './poolsJob';
 import multiTokenPoolsJob from './multiTokenPoolsJob';

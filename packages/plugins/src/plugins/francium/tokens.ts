@@ -1,5 +1,5 @@
 import { PublicKey } from '@solana/web3.js';
-import { solanaNativeWrappedAddress } from '@sonarwatch/portfolio-core';
+import { solanaNativeWrappedAddress } from '@avingoyal01/portfolio-core';
 
 export const TOKENS: {
   [key: string]: {

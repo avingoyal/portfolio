@@ -2,7 +2,7 @@ import {
   EvmNetworkIdType,
   PortfolioElement,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { getLockersBalances } from './helpers';
 import { Cache } from '../../Cache';

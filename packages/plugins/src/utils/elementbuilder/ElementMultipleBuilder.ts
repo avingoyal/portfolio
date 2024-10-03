@@ -3,7 +3,7 @@ import {
   NetworkIdType,
   PortfolioAsset,
   PortfolioElement,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { ElementBuilder } from './ElementBuilder';
 import { AssetBuilder } from './AssetBuilder';
 import { ElementParams } from './ElementParams';

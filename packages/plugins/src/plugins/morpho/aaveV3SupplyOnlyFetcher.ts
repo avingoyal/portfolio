@@ -2,7 +2,7 @@ import {
   NetworkId,
   PortfolioElementLiquidity,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { platformId, wethAddress, wethDecimals } from './constants';
 import { Cache } from '../../Cache';

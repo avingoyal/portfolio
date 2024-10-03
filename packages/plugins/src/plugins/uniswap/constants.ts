@@ -1,4 +1,4 @@
-import { NetworkId, Platform } from '@sonarwatch/portfolio-core';
+import { NetworkId, Platform } from '@avingoyal01/portfolio-core';
 import { UniswapNetworkConfig } from './types';
 
 export const platformId = 'uniswap';

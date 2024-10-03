@@ -10,7 +10,7 @@ import {
   solanaNativeAddress,
   solanaNativeWrappedAddress,
   suiNativeAddress,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { walletTokensPlatform } from '../../plugins/tokens/constants';
 import getSourceWeight from './getSourceWeight';
 import { usdcSuiType } from '../sui/constants';

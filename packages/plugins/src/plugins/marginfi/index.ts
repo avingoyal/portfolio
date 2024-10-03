@@ -1,4 +1,4 @@
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import banksJob from './banksJob';
 import depositsFetcher from './depositsFetcher';
 import { Job } from '../../Job';

@@ -3,7 +3,7 @@ import {
   AddressSystemType,
   NetworkIdType,
   getAddressSystemFromNetworkId,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 
 export function getFetchersByAddressSystem<
   T extends { networkId: NetworkIdType }

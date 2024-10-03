@@ -6,7 +6,7 @@ import {
   PortfolioElement,
   PortfolioElementLiquidity,
   PortfolioElementType,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { PublicKey } from '@solana/web3.js';
 import { platformId, raydiumProgram } from './constants';
 import tokenPriceToAssetToken from '../../utils/misc/tokenPriceToAssetToken';

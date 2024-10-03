@@ -1,5 +1,5 @@
 import DSA, { ChainId } from 'dsa-connect';
-import { EvmNetworkIdType, networks } from '@sonarwatch/portfolio-core';
+import { EvmNetworkIdType, networks } from '@avingoyal01/portfolio-core';
 import { getEvmWeb3V1Client } from '../clients';
 
 export function getDSA(networkId: EvmNetworkIdType) {

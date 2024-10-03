@@ -1,5 +1,5 @@
 import { PublicKey } from '@solana/web3.js';
-import { Platform } from '@sonarwatch/portfolio-core';
+import { Platform } from '@avingoyal01/portfolio-core';
 import { AirdropConfig } from './types';
 import { platformId as kaminoPlatformId } from '../../kamino/constants';
 

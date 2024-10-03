@@ -8,7 +8,7 @@ import {
   Yield,
   apyToApr,
   getElementLendingValues,
-} from '@sonarwatch/portfolio-core';
+} from '@avingoyal01/portfolio-core';
 import { AccountInfo, PublicKey } from '@solana/web3.js';
 import BigNumber from 'bignumber.js';
 import {

@@ -1,4 +1,4 @@
-import { NetworkId, ethereumNetwork } from '@sonarwatch/portfolio-core';
+import { NetworkId, ethereumNetwork } from '@avingoyal01/portfolio-core';
 import BigNumber from 'bignumber.js';
 import { Cache } from '../../Cache';
 import { platformId, withdrawlQueueAddress } from './constants';
