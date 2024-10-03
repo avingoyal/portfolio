@@ -2,6 +2,34 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## 0.0.1 (2024-10-03)
+
+
+### Bug Fixes
+
+* **plugins:** zeta airdrop fetcher ([2df3b04](https://github.com/avingoyal/portfolio/commit/2df3b046a5078862d9fbbb7bcbc69fa40237a5c8))
+
+
+### Features
+
+* add new scoin support ([ea4382d](https://github.com/avingoyal/portfolio/commit/ea4382d314fc366273c7847164f1028f3e3fb585))
+* update scallop lending fetcher ([0620dd9](https://github.com/avingoyal/portfolio/commit/0620dd969814c7725e03a4ff7f0d0206cab37f42))
+
+
+### Reverts
+
+* Revert "quick fix" ([8bc6088](https://github.com/avingoyal/portfolio/commit/8bc60880781fa62359ed79132aa56660a770ea67))
+* Revert "fix" ([1da1323](https://github.com/avingoyal/portfolio/commit/1da13233267c4db40155341d91752b4b4dba58d1))
+* Revert "fix getAutoParsedProgramAccounts" ([451cbb2](https://github.com/avingoyal/portfolio/commit/451cbb297fb99a3a6e1ed4801fd91c211fb6e833))
+* Revert "linting" ([cc27848](https://github.com/avingoyal/portfolio/commit/cc27848b5a5e965d54457cd9dce7359a62c5e48d))
+* Revert "improve namings" ([155a7ff](https://github.com/avingoyal/portfolio/commit/155a7ffdddd158964f27f8ed52ec82c357c5034e))
+* Revert "fix flashtrade" ([4055eb1](https://github.com/avingoyal/portfolio/commit/4055eb1e72e64c96adf536bbd81c377c41018535))
+* Revert "upgrade nx" ([62550ba](https://github.com/avingoyal/portfolio/commit/62550bab2e60d40b8616465843dad4d3ad612bbd))
+* Revert "rename" ([ffcf477](https://github.com/avingoyal/portfolio/commit/ffcf47783e7dcb924c7685a4c7784a2385b526c2))
+* Revert "fix" ([75a2d85](https://github.com/avingoyal/portfolio/commit/75a2d85230c10109f052c903700899308a48e72c))
+
+
+
 ## [0.12.173](https://github.com/sonarwatch/portfolio/compare/plugins-0.12.172...plugins-0.12.173) (2024-10-01)
 
 
