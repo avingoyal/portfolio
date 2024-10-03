@@ -1,10 +1,10 @@
 {
-  "name": "@sonarwatch/portfolio-plugins",
-  "version": "0.0.1",
+  "name": "@avingoyal01/portfolio-plugins",
+  "version": "0.0.2",
   "type": "commonjs",
   "types": "./src/index.d.ts",
   "peerDependencies": {
-    "@sonarwatch/portfolio-core": "^0.13.0"
+    "@avingoyal01/portfolio-core": "^0.0.4"
   },
   "dependencies": {
     "@solanafm/explorer-kit-idls": "^1.1.3",

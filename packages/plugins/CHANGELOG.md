@@ -2,6 +2,10 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.0.2](https://github.com/avingoyal/portfolio/compare/plugins-0.0.1...plugins-0.0.2) (2024-10-03)
+
+
+
 ## 0.0.1 (2024-10-03)
 
 
